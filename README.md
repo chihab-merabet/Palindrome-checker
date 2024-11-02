@@ -33,6 +33,6 @@ A simple web application that checks if a given text is a palindrome.
  - styles.css - Styles for the application.
  - script.js - JavaScript file containing the palindrome-checking logic.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
